@@ -1,0 +1,23 @@
+
+body{
+    background-color: cadetblue;
+}
+
+h1{
+    color: blue;
+    background-color: brown;
+}
+p{
+    color: white;
+    font-size: 25px;
+    font-weight:800;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    width: 60%;
+        
+}
+img{
+    width: 300px;
+    height: 250px;
+}
+
