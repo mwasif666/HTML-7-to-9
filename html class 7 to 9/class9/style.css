@@ -1,0 +1,12 @@
+.one{
+    color: blue;
+    background-color: brown;
+    display: flex;
+}
+.two{
+    background-color: blue;
+    display: flex;
+}
+body{
+    display: flex;
+}
