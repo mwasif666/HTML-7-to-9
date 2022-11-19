@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    background-color: rgb(245, 244, 244);
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+.sign{
+    background-color: white;
+    width: 30%;
+    height: 400px;
+    text-align: center;
+    box-shadow: 15px 15px 25px gray;
+}
+.sign h1{
+
+    margin-top: 30px;
+    line-height: 60px;
+
+}
+.sign a{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    border: 1px solid rgb(20, 82, 198);
+    border-radius: 50%;
+    padding: 10px 12px;
+    margin: 0px 5px;
+    /* line-height: 50px */
+}
+.sign input{
+    background-color: rgb(240, 236, 236);
+    width: 200px;
+    height: 30px;
+    border: none;
+    padding-left:20px;
+
+}
+.sign p{
+    font-family:sans-serif;
+    line-height: 50px;
+}
+.sign button{
+
+     background-color: rgb(20, 82, 198);
+     color: white;
+     border-radius: 30px;
+     width: 110px;
+     padding: 10px;
+     border: none;
+     cursor: pointer;
+     font-size: 16px;
+
+}
+.sign button:hover{
+    background-color: rgb(12, 51, 125);
+   
+}
+.up button{
+
+     background-color: rgb(20, 82, 198);
+     color: white;
+     border-radius: 30px;
+     width: 110px;
+     padding: 10px;
+     border: none;
+     cursor: pointer;
+     font-size: 16px;
+    margin-top: 50px;
+}
+.up button:hover{
+    background-color: rgb(12, 51, 125);
+   
+}
+.up{
+    background:linear-gradient(to right top,rgb(20, 171, 198),rgb(7, 77, 198));
+    width: 30%;
+    height: 400px;
+    text-align: center;
+    color: white;
+    box-shadow: 15px 15px 25px gray;
+   
+}
+.up h1{
+
+    margin-top: 100px;
+    line-height: 60px;
+
+}
+.up p{
+    margin-top: 20px;
+}
+
+
+
+
