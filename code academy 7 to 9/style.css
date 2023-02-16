@@ -1,0 +1,19 @@
+.modal-body{
+    display: inline-block;
+}
+.search{
+    display: inline-block;
+}
+.modal-content{
+    background: rgba(32, 25, 163, 0.3);
+
+}
+.bg-transparent::placeholder{
+    color: white;
+}
+.bg-transparent:focus{
+    color: white;
+}
+.btn-close{
+    background-color: lightgray;
+}
